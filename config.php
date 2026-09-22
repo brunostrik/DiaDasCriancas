@@ -8,7 +8,7 @@
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'diadascriancas');
 define('DB_USER', 'root');
-define('DB_PASS', 'ifpr23102015');
+define('DB_PASS', '');
 
 define('BASE_URL', 'https://astorgaifpr.online/diadascriancas');
 define('ADMIN_USER', 'admin');
